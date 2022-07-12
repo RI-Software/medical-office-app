@@ -7,7 +7,7 @@
 ## Related repos
 
 1) [MedicalOfficeApp.API](https://github.com/RI-Software/MedicalOfficeApp.API) - application api.
-2) [MedicalOfficeApp.GUI.WEB](https://github.com/RI-Software/MedicalOfficeApp.GUI.WEB) - application web interface.
+2) [MedicalOfficeApp.GUI](https://github.com/RI-Software/MedicalOfficeApp.GUI) - application web interface.
 
 ## Usage 
 
